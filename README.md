@@ -1,65 +1,49 @@
-# firexcode README
+ 
 
-This is the README for your extension "firexcode". After writing up a brief description, we recommend including the following sections.
+![logo](https://user-images.githubusercontent.com/45489310/96744076-479de980-13e2-11eb-82ac-1a3418d6e77c.png)
 
-## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+# Getting Started FireXcode:
 
-For example if there is an image subfolder under your extension project workspace:
+Good news to all Flutter Developers .
 
-\!\[feature X\]\(images/feature-x.png\)
+All the developers,  now you can develop  more  faster and better then before with new feature use FireXcode package to be more productive and more fast to build  any platform application.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+Now, you can get more by writing less "[FireXcode](https://pub.dev/packages/firexcode)"
 
-## Requirements
+![1](https://user-images.githubusercontent.com/45489310/96744400-a2374580-13e2-11eb-8459-bd53f1cc4e68.png)
+![2](https://user-images.githubusercontent.com/45489310/96744526-c5fa8b80-13e2-11eb-9d4f-4055c1a97afa.png)
+![3](https://user-images.githubusercontent.com/45489310/96744634-e296c380-13e2-11eb-82b0-0a3dc59c0dc8.png)
+![4](https://user-images.githubusercontent.com/45489310/96744684-ee828580-13e2-11eb-8af2-540d879831b2.png)
+![5](https://user-images.githubusercontent.com/45489310/96744720-f7735700-13e2-11eb-897c-275de55c6db3.png)
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
 
-## Extension Settings
+## Installation
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+First, add `firexcode:` as a [dependency in your pubspec.yaml file](https://pub.dev/packages/firexcode).
 
-For example:
+Import
 
-This extension contributes the following settings:
+dart
+import 'package:firexcode/firexcode.dart';
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+### Example
 
-## Known Issues
+![carbon (2)](https://user-images.githubusercontent.com/45489310/96745265-9304c780-13e3-11eb-8c63-33632f2e39cf.png)
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+# FireXcode VS Code Extension:
 
-## Release Notes
+Get this extension & get more feature from FireXcode
 
-Users appreciate release notes as you update your extension.
+### Open VS Code -> Go to extensions -> Search 'FireXcode'
 
-### 1.0.0
+Get alots of shortcut features with its snippet features
+with More shortcut feature 
 
-Initial release of ...
+[FireXcode Extension](https://pub.dev/packages/firexcode)
 
-### 1.0.1
+Note: FireXcode is not directly and/or indirectly associated/affiliated with Flutter or Google LLC. 
 
-Fixed issue #.
+# Copyright-and-license 
 
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Code and documentation Copyright 2020 Zeeshux7860. Code released under the [Apache License](https://creativecommons.org/licenses/by/3.0/). Docs released under Creative Commons.
