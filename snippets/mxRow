@@ -1,0 +1,212 @@
+{
+    "xRow": {
+        "prefix": "xRow",
+        "body": [
+            "xRow.list([$1]),"
+        ],
+        "description": "xRow"
+    },
+    "xRowSS": {
+        "prefix": "xRowSS",
+        "body": [
+            "xRowSS.list([$1]),"
+        ],
+        "description": "xRowSS"
+    },
+    "xRowBS": {
+        "prefix": "xRowBS",
+        "body": [
+            "xRowBS.list([$1]),"
+        ],
+        "description": "xRowBS"
+    },
+    "xRowCC": {
+        "prefix": "xRowCC",
+        "body": [
+            "xRowCC.list([$1]),"
+        ],
+        "description": "xRowCC"
+    },
+    "xRowES": {
+        "prefix": "xRowES",
+        "body": [
+            "xRowES.list([$1]),"
+        ],
+        "description": "xRowES"
+    },
+    "xRowSTS": {
+        "prefix": "xRowSTS",
+        "body": [
+            "xRowSTS.list([$1]),"
+        ],
+        "description": "xRowSTS"
+    },
+    "xRowSTC": {
+        "prefix": "xRowSTC",
+        "body": [
+            "xRowSTC.list([$1]),"
+        ],
+        "description": "xRowSTC"
+    },
+    "xRowSC": {
+        "prefix": "xRowSC",
+        "body": [
+            "xRowSC.list([$1]),"
+        ],
+        "description": "xRowSC"
+    },
+    "xRowEC": {
+        "prefix": "xRowEC",
+        "body": [
+            "xRowEC.list([$1]),"
+        ],
+        "description": "xRowEC"
+    },
+    "xRowBC": {
+        "prefix": "xRowBC",
+        "body": [
+            "xRowBC.list([$1]),"
+        ],
+        "description": "xRowBC"
+    },
+    "xRowSTE": {
+        "prefix": "xRowSTE",
+        "body": [
+            "xRowSTE.list([$1]),"
+        ],
+        "description": "xRowSTE"
+    },
+    "xRowSE": {
+        "prefix": "xRowSE",
+        "body": [
+            "xRowSE.list([$1]),"
+        ],
+        "description": "xRowSE"
+    },
+    "xRowEE": {
+        "prefix": "xRowEE",
+        "body": [
+            "xRowEE.list([$1]),"
+        ],
+        "description": "xRowEE"
+    },
+    "xRowCE": {
+        "prefix": "xRowCE",
+        "body": [
+            "xRowCE.list([$1]),"
+        ],
+        "description": "xRowCE"
+    },
+    "xRowBE": {
+        "prefix": "xRowBE",
+        "body": [
+            "xRowBE.list([$1]),"
+        ],
+        "description": "xRowBE"
+    },
+    "xRowSTSA": {
+        "prefix": "xRowSTSA",
+        "body": [
+            "xRowSTSA.list([$1]),"
+        ],
+        "description": "xRowSTSA"
+    },
+    "xRowSSA": {
+        "prefix": "xRowSSA",
+        "body": [
+            "xRowSSA.list([$1]),"
+        ],
+        "description": "xRowSSA"
+    },
+    "xRowESA": {
+        "prefix": "xRowESA",
+        "body": [
+            "xRowESA.list([$1]),"
+        ],
+        "description": "xRowESA"
+    },
+    "xRowCSA": {
+        "prefix": "xRowCSA",
+        "body": [
+            "xRowCSA.list([$1]),"
+        ],
+        "description": "xRowCSA"
+    },
+    "xRowBSA": {
+        "prefix": "xRowBSA",
+        "body": [
+            "xRowBSA.list([$1]),"
+        ],
+        "description": "xRowBSA"
+    },
+    "xRowSTSB": {
+        "prefix": "xRowSTSB",
+        "body": [
+            "xRowSTSB.list([$1]),"
+        ],
+        "description": "xRowSTSB"
+    },
+    "xRowSSB": {
+        "prefix": "xRowSSB",
+        "body": [
+            "xRowSSB.list([$1]),"
+        ],
+        "description": "xRowSSB"
+    },
+    "xRowESB": {
+        "prefix": "xRowESB",
+        "body": [
+            "xRowESB.list([$1]),"
+        ],
+        "description": "xRowESB"
+    },
+    "xRowCSB": {
+        "prefix": "xRowCSB",
+        "body": [
+            "xRowCSB.list([$1]),"
+        ],
+        "description": "xRowCSB"
+    },
+    "xRowBSB": {
+        "prefix": "xRowBSB",
+        "body": [
+            "xRowBSB.list([$1]),"
+        ],
+        "description": "xRowBSB"
+    },
+    "xRowSTSE": {
+        "prefix": "xRowSTSE",
+        "body": [
+            "xRowSTSE.list([$1]),"
+        ],
+        "description": "xRowSTSE"
+    },
+    "xRowSSE": {
+        "prefix": "xRowSSE",
+        "body": [
+            "xRowSSE.list([$1]),"
+        ],
+        "description": "xRowSSE"
+    },
+    "xRowESE": {
+        "prefix": "xRowESE",
+        "body": [
+            "xRowESE.list([$1]),"
+        ],
+        "description": "xRowESE"
+    },
+    "xRowCSE": {
+        "prefix": "xRowCSE",
+        "body": [
+            "xRowCSE.list([$1]),"
+        ],
+        "description": "xRowCSE"
+    },
+    "xRowBSE": {
+        "prefix": "xRowBSE",
+        "body": [
+            "xRowBSE.list([$1]),"
+        ],
+        "description": "xRowBSE"
+    }
+}

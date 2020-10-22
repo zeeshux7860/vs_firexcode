@@ -1,0 +1,43 @@
+{
+  "xListView": {
+    "prefix": "xListView",
+    "body": [
+      "xListView.list([$1]),"
+    ],
+    "description": "xListView"
+  },
+  "xListViewBuilder": {
+    "prefix": [
+      "xLVB",
+      "()"
+    ],
+    "body": [
+      "(context,index){}.xListVB(itemCount: null),"
+    ],
+    "description": "xListViewBuilder"
+  },
+  "xListViewBuilderHorizintal": {
+    "prefix": [
+      "xLVBH",
+      "()"
+    ],
+    "body": [
+      "(context,index){}.xListVBH(itemCount: null).xContainer(height: $1),"
+    ],
+    "description": "xListViewBuilder"
+  },
+  "xContainer": {
+    "prefix": "xc",
+    "body": [
+      ".xContainer()"
+    ],
+    "description": "xContainer"
+  },
+  "xAppBar": {
+    "prefix": "xAppBar",
+    "body": [
+      ".xAppBar()"
+    ],
+    "description": "xAppBar"
+  },
+}

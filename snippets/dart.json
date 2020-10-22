@@ -1,0 +1,120 @@
+{
+    "start_main_sftul": {
+        "prefix": "inter",
+        "body": [
+            "import 'package:firexcode/firexcode.dart';",
+            "",
+            "void main() {",
+            "  runApp(MyApp());",
+            "}",
+            "",
+            "class MyApp extends StatelessWidget {",
+            "  @override",
+            "  Widget build(BuildContext context) {",
+            "    return $1().xMaterialApp();",
+            "  }",
+            "}",
+            "",
+            "class $1 extends StatefulWidget {",
+            "  @override",
+            "  _$1State createState() => _$1State();",
+            "}",
+            "",
+            "class _$1State extends State<$1> {",
+            "  @override",
+            "  Widget build(BuildContext context) {",
+            "    return xListView.list([",
+            "",
+            "    ]).xScaffold();",
+            "  }",
+            "}",
+            ""
+        ],
+        "description": "Interpolate this"
+    },
+    "Widgetstless_key": {
+        "prefix": "mstl",
+        "body": [
+          "import 'package:firexcode/firexcode.dart';",
+          "",
+          "",
+          "class $1 extends StatelessWidget {",
+          "",
+          "  @override",
+          "  Widget build(BuildContext context) {",
+          "    return xListView.list([",
+          "",
+          "    ]).xScaffold();",
+          "  }",
+          "}",
+          ""
+        ],
+        "description": "Widget"
+      },
+      "Widgetstfull_key": {
+      "prefix": "mstf",
+        "scope": "dart",
+        "body": [
+          "import 'package:firexcode/firexcode.dart';",
+          "",
+          "class $1 extends StatefulWidget {",
+          "  @override",
+          "  _$1State createState() => _$1State();",
+          "}",
+          "",
+          "class _$1State extends State<$1> {",
+          "  @override",
+          "  Widget build(BuildContext context) {",
+          "    return xListView.list([",
+          "      ",
+          "    ]).xScaffold();",
+          "  }",
+          "}"
+        ],
+        "description": "Widget"
+      }
+,    
+    "xColumn": {
+        "prefix": "xC",
+        "body": [
+          "xColumn.list([$1]),"
+        ],
+        "description": "xColumn"
+      },
+      "xRow": {
+        "prefix": "xR",
+        "body": [
+          "xRow.list([$1]),"
+        ],
+        "description": "xColumn"
+      },
+      "xListview": {
+        "prefix": "xL",
+        "body": [
+          "xListview.list([$1]),"
+        ],
+        "description": "xColumn"
+      },
+      "initState": {
+        "prefix": "xinit",
+        "body": [
+          " @override",
+          "  void initState() {",
+        
+          "    super.initState();",
+          "  }"
+        ],
+        "description": "initState"
+      },
+      "dispose": {
+        "prefix": "xdis",
+        "body": [
+          "@override",
+          "  void dispose() {",
+          "    // TODO: implement dispose",
+          "    super.dispose();",
+          "  }"
+        ],
+        "description": "dispose"
+      }
+}

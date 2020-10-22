@@ -1,0 +1,273 @@
+{
+    "name": "firexcode",
+    "displayName": "FireXcode",
+    "description": "FireXcode is flutter package",
+    "version": "1.0.0",
+	"publisher": "Zeeshux7860",
+	"icon": "logo.png",
+	"license": "MIT",
+		"homepage": "https://github.com/zeeshux7860/vs_code_material_x#readme",
+	"bugs": {
+		"url": "https://github.com/zeeshux7860/vs_code_material_x/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zeeshux7860/vs_code_material_x"
+	},
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+	"categories": [
+		"Snippets",
+		"Keymaps"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "dart",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "flutter",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "dart",
+				"path": "./snippets/widget"
+			},
+			{
+				"language": "flutter",
+				"path": "./snippets/widget"
+			},
+			{
+				"language": "dart",
+				"path": "./snippets/mxColumn"
+			},
+			{
+				"language": "flutter",
+				"path": "./snippets/mxColumn"
+			},
+			{
+				"language": "dart",
+				"path": "./snippets/mxRow"
+			},
+			{
+				"language": "flutter",
+				"path": "./snippets/mxRow"
+			},
+			{
+				"language": "dart",
+				"path": "./snippets/dart.json"
+			}
+		],
+		"keybindings": [
+			{
+				"key": "ctrl+m p",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": "print();"
+				}
+			},
+			{
+				"key": "ctrl+m s",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"name": "Widgetstless_key"
+				}
+			},
+			{
+				"key": "ctrl+m f",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"name": "Widgetstfull_key"
+				}
+			},
+			{
+				"key": "ctrl+m ctrl+s",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"name": "start_main_sftul"
+				}
+			},
+			{
+				"key": "ctrl+m c",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"name": "mxColumn"
+				}
+			},
+			{
+				"key": "ctrl+m r",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"name": "mxRow"
+				}
+			},
+			{
+				"key": "ctrl+m l",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"name": "mxListView"
+				}
+			},
+			{
+				"key": "ctrl+m i",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"name": "initState"
+				}
+			},
+			{
+				"key": "ctrl+m d",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"name": "dispose"
+				}
+			},
+			{
+				"key": "ctrl+m c",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": ".mxContainer()"
+				}
+			},
+			{
+				"key": "ctrl+l ctrl+h",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": "(context,index){}.mxListVBH(itemCount: null).mxContainer(height: $1),"
+				}
+			},
+			{
+				"key": "ctrl+l ctrl+b ",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": "(context,index){}.mxListVB(itemCount: null),"
+				}
+			},
+			{
+				"key": "ctrl+r ctrl+m ",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": ".mxRoutePage(context).materialPagePush();"
+				}
+			},
+			{
+				"key": "ctrl+r ctrl+f ",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": ".mxRoutePage(context).fadePush();"
+				}
+			},
+			{
+				"key": "ctrl+r ctrl+c ",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": ".mxRoutePage(context).cupertinoPagePush();"
+				}
+			},
+			{
+				"key": "ctrl+r ctrl+e ",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": ".mxRoutePage(context).exitPush();"
+				}
+			},
+			{
+				"key": "ctrl+r ctrl+o ",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": ".mxRoutePage(context).rotationPush();"
+				}
+			},
+			{
+				"key": "ctrl+r ctrl+s ",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": ".mxRoutePage(context).scalePush();"
+				}
+			},
+			{
+				"key": "ctrl+r ctrl+s ",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": ".mxRoutePage(context).scalePush();"
+				}
+			},
+			{
+				"key": "ctrl+r ctrl+t ",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": ".mxRoutePage(context).slideTopPush();"
+				}
+			},
+			{
+				"key": "ctrl+r ctrl+b ",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": ".mxRoutePage(context).slideLBottomPush();"
+				}
+			},
+			{
+				"key": "ctrl+r ctrl+r ",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": ".mxRoutePage(context).slideRightPush();"
+				}
+			},
+			{
+				"key": "ctrl+r ctrl+l ",
+				"command": "editor.action.insertSnippet",
+				"when": "editorTextFocus",
+				"args": {
+					"langId": "dart",
+					"snippet": ".mxRoutePage(context).slideLeftPush();"
+				}
+			}
+		]
+	}
+}

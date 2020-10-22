@@ -1,0 +1,107 @@
+{
+  "Start Widget StatefullWidget": {
+    "prefix": "sstf",
+    "body": [
+      "import 'package:firexcode/firexcode.dart';",
+      "",
+      "void main() {",
+      "  runApp(MyApp());",
+      "}",
+      "",
+      "class MyApp extends StatelessWidget {",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return $1().xMaterialApp();",
+      "  }",
+      "}",
+      "",
+      "class $1 extends StatefulWidget {",
+      "  @override",
+      "  _$1State createState() => _$1State();",
+      "}",
+      "",
+      "class _$1State extends State<$1> {",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return xListView.list([",
+      "",
+      "    ]).xScaffold();",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "Start Widget"
+  },
+  
+  "Start Widget StatelessWidget": {
+    "prefix": "sst",
+    "body": [
+      "import 'package:firexcode/firexcode.dart';",
+      "",
+      "void main() {",
+      "  runApp(MyApp());",
+      "}",
+      "",
+      "class MyApp extends StatelessWidget {",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return $1().xMaterialApp();",
+      "  }",
+      "}",
+      "",
+      "class $1 extends StatelessWidget {",
+      "",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return xListView.list([",
+      "",
+      "    ]).xScaffold();",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "Start Widget"
+  },
+  "Widgetstless": {
+    "prefix": "mstless",
+    "body": [
+      "import 'package:firexcode/firexcode.dart';",
+      "",
+      "",
+      "class $1 extends StatelessWidget {",
+      "",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return xListView.list([",
+      "",
+      "    ]).xScaffold();",
+      "  }",
+      "}",
+      ""
+    ],
+    "description": "Widget"
+  },
+  "Widgetstfull": {
+  "prefix": "mstfull",
+	"scope": "dart",
+    "body": [
+      "import 'package:firexcode/firexcode.dart';",
+      "",
+      "class $1 extends StatefulWidget {",
+      "  @override",
+      "  _$1State createState() => _$1State();",
+      "}",
+      "",
+      "class _$1State extends State<$1> {",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return xListView.list([",
+      "      ",
+      "    ]).xScaffold();",
+      "  }",
+      "}"
+    ],
+    "description": "Widget"
+  }
+
+}
